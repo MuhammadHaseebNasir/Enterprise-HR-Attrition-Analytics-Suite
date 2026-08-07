@@ -65,7 +65,6 @@ Instead of static numeric cards, the top **6-in-1 Executive KPI Strip** uses adv
 ## 📁 Repository Structure
 ```text
 ├── hr_analytics_dashboard.pbix             # Main Power BI Desktop file with complete DAX data model
-├── hr_analytics_dashboard_demoVideo.mp4    # 40-second interactive video demonstration of dynamic filters
 ├── hr_analytics_dashboard_screenshot.png   # High-resolution executive preview screenshot
 ├── WA_Fn-UseC_-HR-Employee-Attrition.csv   # Raw IBM HR Analytics employee attrition dataset
 └── README.md                               # Project documentation & executive findings
